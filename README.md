@@ -38,6 +38,9 @@ plt.show()
 <img width="1131" height="690" alt="Screenshot 2025-09-19 053218" src="https://github.com/user-attachments/assets/2dfa4c36-a15c-4580-933c-aae11b2c4c67" />
 
 
+<img width="559" height="842" alt="Screenshot 2025-09-19 054745" src="https://github.com/user-attachments/assets/88c0194b-e8fd-41a1-9224-3bb6f94d3eb5" />
+
+
 ### Program 2:
 ```python
 df = pd.read_csv(r"C:\Users\admin\Downloads\clustervisitor (Salary).csv")
@@ -63,6 +66,7 @@ plt.show()
 <img width="1020" height="549" alt="Screenshot 2025-09-19 054510" src="https://github.com/user-attachments/assets/a0438212-7d66-48c8-b05c-8fcebcbcd28f" />
 
 
+<img width="556" height="838" alt="Screenshot 2025-09-19 054652" src="https://github.com/user-attachments/assets/1715d9d6-e2af-428f-8c70-7ba68dcfb7a8" />
 
 ### Result:
  Cluster and Visitor Segmentation for Navigation patterns in Python created successfully.
